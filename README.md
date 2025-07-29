@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Satria Nugraha from West Java <br><br>- 🔭 I’m working as IT Tecnician<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time I Learn New Project.</p>
 
 ###
 
